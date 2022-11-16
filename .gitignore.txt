@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-*.doc
-=======
-*.doc
->>>>>>> 5dbc878bac6c0db164f6cc9639d8eeb9f444dcc7
